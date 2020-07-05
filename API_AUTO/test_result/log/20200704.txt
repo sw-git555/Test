@@ -1,0 +1,198 @@
+20-07-04 12:56-ERROR- :: 1 != 0
+Traceback (most recent call last):
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_login.py", line 30, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1 != 0
+20-07-04 12:57-ERROR-0 != "{'ret': 0, 'usertype': 1, 'userid': 1, 'realname': '白月黑羽'}"
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_login.py", line 30, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != "{'ret': 0, 'usertype': 1, 'userid': 1, 'realname': '白月黑羽'}"
+20-07-04 12:57-ERROR-0 != "{'ret': 0, 'id': 52}"
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_login.py", line 30, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != "{'ret': 0, 'id': 52}"
+20-07-04 12:57-ERROR-0 != "{'ret': 0, 'usertype': 1, 'userid': 1, 'realname': '白月黑羽'}"
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_login.py", line 30, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != "{'ret': 0, 'usertype': 1, 'userid': 1, 'realname': '白月黑羽'}"
+20-07-04 12:57-ERROR-1 != "{'ret': 1, 'msg': 'id 为`0`的用户不存在'}"
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_login.py", line 30, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != "{'ret': 1, 'msg': 'id 为`0`的用户不存在'}"
+20-07-04 13:00-ERROR-1 != 0
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_login.py", line 30, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 0
+20-07-04 13:01-ERROR-1 != 0
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_login.py", line 34, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 0
+20-07-04 13:04-ERROR- :: 1 != 0
+Traceback (most recent call last):
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_login.py", line 35, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1 != 0
+20-07-04 13:05-ERROR- :: 1 != 0
+Traceback (most recent call last):
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_login.py", line 35, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1 != 0
+20-07-04 13:08-ERROR- :: 1 != 0
+Traceback (most recent call last):
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_login.py", line 36, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1 != 0
+20-07-04 13:41-ERROR- :: 0 != 1
+Traceback (most recent call last):
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 39, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 0 != 1
+20-07-04 13:41-ERROR- :: 0 != 2
+Traceback (most recent call last):
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 39, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 0 != 2
+20-07-04 13:41-ERROR- :: 0 != 1
+Traceback (most recent call last):
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 39, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 0 != 1
+20-07-04 13:41-ERROR- :: 0 != 2
+Traceback (most recent call last):
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 39, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 0 != 2

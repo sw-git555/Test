@@ -1,0 +1,290 @@
+20-07-05 00:14-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 52, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:14-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 52, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:15-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 52, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:16-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 53, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:16-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 53, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:18-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 53, in test_api
+    print(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:18-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 53, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:19-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 53, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:20-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 53, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:22-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 53, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:23-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 54, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:24-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 55, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:31-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 55, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:33-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 55, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:35-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 55, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:44-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 51, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:44-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 51, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:45-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 52, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:46-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 52, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:46-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 52, in test_api
+    print(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:47-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 51, in test_api
+    print(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:47-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 51, in test_api
+    print(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:47-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 51, in test_api
+    print(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:50-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 52, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 00:51-ERROR-EOL while scanning string literal (<string>, line 1)
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 53, in test_api
+    sql_result = HandleSqlite().select_sql(eval(item['test_sql'])['sql'])
+  File "<string>", line 1
+    {"sql":"SELECT id
+                    ^
+SyntaxError: EOL while scanning string literal
+20-07-05 15:58-ERROR- :: 1 != 0
+Traceback (most recent call last):
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 55, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1 != 0
+20-07-05 15:59-ERROR- :: 1 != 0
+Traceback (most recent call last):
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 55, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1 != 0
+20-07-05 16:00-ERROR- :: 1 != 0
+Traceback (most recent call last):
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 55, in test_api
+    self.assertEqual(int(res.json()['ret']), item['expect'])
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1 != 0
+20-07-05 17:09-ERROR- :: 114 != 115
+Traceback (most recent call last):
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 114 != 115
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 53, in test_api
+    self.assertEqual(sql_result[0][0], res.json()['id'])
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 114 != 115
+20-07-05 17:09-ERROR- :: 114 != 116
+Traceback (most recent call last):
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 821, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\python3.6.0\lib\unittest\case.py", line 814, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 114 != 116
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\legion\Desktop\API_AUTO\test_case\test_http.py", line 53, in test_api
+    self.assertEqual(sql_result[0][0], res.json()['id'])
+  File "D:\PyCharm 2020.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 114 != 116
